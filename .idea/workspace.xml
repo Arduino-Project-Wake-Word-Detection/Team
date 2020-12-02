@@ -4,6 +4,7 @@
     <list default="true" id="101a0aea-e652-496f-a283-28fe9aafeab2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StopGo/micro_speech/arduino_command_responder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/StopGo/micro_speech/arduino_command_responder.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StopGo/micro_speech/micro_features_model.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/StopGo/micro_speech/micro_features_model.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,8 @@
       <workItem from="1605418222084" duration="18000" />
       <workItem from="1605418253189" duration="846000" />
       <workItem from="1605478714374" duration="65000" />
-      <workItem from="1606794046507" duration="1166000" />
+      <workItem from="1606794046507" duration="1428000" />
+      <workItem from="1606877296116" duration="2018000" />
     </task>
     <servers />
   </component>

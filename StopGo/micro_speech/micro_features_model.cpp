@@ -32,7 +32,15 @@ limitations under the License.
 #define DATA_ALIGN_ATTRIBUTE
 #endif
 
-// Changed model to new trained model with {stop, go} as inputs
+/*
+ * Deep Learning Framework: TensorFlow 1.5
+ * Language used in Training: Python 3.7
+ * Model Category: Multiclass Classification
+ * The model was trained in the Google Colab, with WANTED_WORDS = "stop, go"
+ * The model training loop was 15,000 iterations
+ * The final size of model was 18712 kb
+ * The final accuracy of the model was around 88%
+ */
 const unsigned char g_model[] DATA_ALIGN_ATTRIBUTE = {
   0x20, 0x00, 0x00, 0x00, 0x54, 0x46, 0x4c, 0x33, 0x00, 0x00, 0x00, 0x00,
   0x00, 0x00, 0x12, 0x00, 0x1c, 0x00, 0x04, 0x00, 0x08, 0x00, 0x0c, 0x00,
