@@ -10,3 +10,5 @@ Weihao Huang (wh28) <br>
 <b>Goal:</b><br>
 We built an embedded voice recognition application by using Arduino Nano 33 to take an one-second voice as input and classify it. 
 Our device will light the red or green LED for 3 seconds when hearing the word "stop" or "go" respectively.
+
+For further information, please visited: https://www.hackster.io/tinyml-9/comp-554-fall-20-tinyml-final-project-wake-word-detection-c1a0eb
