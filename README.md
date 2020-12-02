@@ -1,3 +1,7 @@
+<b>Team name:</b> Team TinyML 9 <br>
+
+<b>Project name: </b> COMP 554 Fall 20 TinyML Final Project: Wake Word Detection <br>
+
 <b>Team members:</b> <br>
 Chih-Che Chung (cc128)
 Wenbai Cheng (wc47)
