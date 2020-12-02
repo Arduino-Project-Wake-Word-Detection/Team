@@ -1,4 +1,5 @@
-Team members <br>
+<b>Team members</b> <br>
+
 Chih-Che Chung (cc128)
 
 Wenbai Cheng (wc47)
